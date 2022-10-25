@@ -1,5 +1,8 @@
 const express = require("express");
+const cors = require("cors");
 const app = express();
+
+app.use(cors());
 
 const Port = process.env.Port || 5000;
 
@@ -16,7 +19,6 @@ app.get("/courses", (req, res) => {
 app.get("/courses/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const courseDetails = courses.find((course) => course.id === id);
-  console.log(courseDetails);
   res.send(courseDetails);
 });
 
