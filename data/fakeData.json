@@ -1,0 +1,113 @@
+[
+    {
+    "id": 1,
+    "title": "Language R",
+    "price": 109.95,
+    "description": "In this course you will learn how to program in R and how to use R for effective data analysis. You will learn how to install and configure software necessary for a statistical programming environment and describe generic programming language concepts as they are implemented in a high-level statistical language. The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.",
+    "image": "https://i.ibb.co/6X0J7b3/R-programming.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 120
+    }
+    },
+    {
+    "id": 2,
+    "title": "Python Advance ",
+    "price": 220.3,
+    "description": "In this coding course, you will learn how to program using the Python language. The course breaks down various features and functionalities applicable in Python and most other programming languages. With the basics being covered first, you will be set with a solid foundation that the course material then builds on, leaving you with a comprehensive understanding of programming, in general, and Python, specifically.",
+    "image": "https://i.ibb.co/qMWBD7j/1-RJMx-Ld-THq-VBSij-Km-OO5-MAg.jpg",
+    "rating": {
+    "rate": 4.1,
+    "count": 259
+    }
+    },
+    {
+    "id": 3,
+    "title": "JavaScript",
+    "price": 155.99,
+    "description": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one.You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.",
+    "image": "https://i.ibb.co/frPBXsm/javascript.png",
+    "rating": {
+    "rate": 4.7,
+    "count": 500
+    }
+    },
+    {
+    "id": 4,
+    "title": "Node js",
+    "price": 150.99,
+    "description": "This course is a great introduction to the concepts of server-side web development. You’ll learn the different parts that make up the back-end of a website or web application, and you’ll gain familiarity with the Node.js runtime environment. After this course, you’ll be set up to explore popular Node frameworks like Express.js to build powerful applications.",
+    "image": "https://i.ibb.co/qJ68GdF/node-js.png",
+    "rating": {
+    "rate": 4.1,
+    "count": 430
+    }
+    },
+    {
+    "id": 5,
+    "title": "Java Programming",
+    "price": 295,
+    "description": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.",
+    "image": "https://i.ibb.co/yPBGCR0/java.jpg",
+    "rating": {
+    "rate": 4.6,
+    "count": 400
+    }
+    },
+    {
+    "id": 6,
+    "title": "Language C",
+    "price": 168,
+    "description": "The C programming language was first released in 1972, making it one of the oldest still used today. The language is in everything you do since most modern operating systems are implemented with C code, as is the main version of Python (called CPython). Get started learning C fundamentals to become a better programmer in any field of computer science.",
+    "image": "https://i.ibb.co/qC8JHhh/C-Language.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 70
+    }
+    },
+    {
+    "id": 7,
+    "title": "Programming C++",
+    "price": 119.99,
+    "description": "C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing.",
+    "image": "https://i.ibb.co/R26wZzb/c.jpg",
+    "rating": {
+    "rate": 4,
+    "count": 400
+    }
+    },
+    {
+    "id": 8,
+    "title": "React Js",
+    "price": 310.99,
+    "description": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
+    "image": "https://i.ibb.co/VBP05KV/React-js.jpg",
+    "rating": {
+    "rate": 4.9,
+    "count": 100
+    }
+    },
+    {
+    "id": 9,
+    "title": "Angular_JS",
+    "price": 264,
+    "description": "Angular is a complete JavaScript framework for creating dynamic and interactive applications in HTML. Aside from being one of the hottest frameworks on the web, Angular is easy to learn yet powerful enough to help you develop complex single-page web applications. This path includes content covering Angular 2 and beyond. For the original version, see our AngularJS path.",
+    "image": "https://i.ibb.co/RSxQkL3/Angular.jpg",
+    "rating": {
+    "rate": 4.3,
+    "count": 203
+    }
+    },
+    {
+    "id": 10,
+    "title": "Linux Programming",
+    "price": 109,
+    "description": "On the other hand, you can work as a Linux system engineer and your job is performing remote troubleshooting, determining solutions for any problem they had in their Linux systems, and more. The salary for a Linux system administrator is around $72k per year and the system engineer is around $100k or more in some companies.",
+    "image": "https://i.ibb.co/zRfpmQS/linux-course.png",
+    "rating": {
+    "rate": 3.9,
+    "count": 470
+    }
+    }
+
+    ]
