@@ -16,17 +16,14 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-app.get("/courses/:id", (req, res) => {
-  const id = parseInt(req.params.id);
-  console.log(id);
-  const courseDetailsById = courses.find((course) => course.id === id);
-  res.send(courseDetailsById);
-});
-app.get("/courseDetails/:name", (req, res) => {
+app.get("/courses/:name", (req, res) => {
   const name = req.params.name;
-  console.log(name);
-  const courseDetails = courses.find((course) => course.title === name);
-  console.log(courseDetails);
+  const courseDetailsByName = courses.find((course) => course.title === name);
+  res.send(courseDetailsByName);
+});
+app.get("/courseDetails/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const courseDetails = courses.find((course) => course.id === id);
   res.send(courseDetails);
 });
 
